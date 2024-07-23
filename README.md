@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Excel and SQL
 - 💞️ I’m looking forward to collaborate with the people who are interested in data analysis
 - 📫 How to reach me : LinkedIn @Ramya K
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Ramyakumar27/Ramyakumar27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
